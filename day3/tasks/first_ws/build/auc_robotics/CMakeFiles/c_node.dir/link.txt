@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/c_node.dir/src/name.cpp.o  -o /home/sarah/ROS/AUCRobotics/day3/tasks/first_ws/devel/lib/auc_robotics/c_node 
